@@ -2,9 +2,17 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorSelectWord" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
