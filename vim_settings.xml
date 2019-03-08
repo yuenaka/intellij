@@ -4,28 +4,48 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_gateway/src/jfr/gateway/usecase/messagepushdispatching.go" timestamp="1552036613573" />
-      <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_batch/src/jfr/batch/command/push.go" timestamp="1552032553317">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="17" />
-        <mark key="." line="61" column="17" />
-        <mark key="^" line="61" column="17" />
+      <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_batch/src/jfr/batch/database/mysql/push_query.go" timestamp="1552037518988" />
+      <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_batch/src/jfr/batch/command/push.go" timestamp="1552038193078">
+        <mark key="[" line="77" column="32" />
+        <mark key="]" line="77" column="32" />
+        <mark key="." line="77" column="32" />
+        <mark key="^" line="77" column="32" />
       </file>
       <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_gateway/src/jfr/gateway/usecase/messagepushacceptance.go" timestamp="1552036501125" />
       <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_gateway/src/jfr/gateway/usecase/sweepdevicetoken.go" timestamp="1552036406508" />
+      <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_batch/src/jfr/batch/jfr/push.go" timestamp="1552037545682" />
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CQkvLyBQVVNI44Gq44KJR2F0ZXdheeOBq+ODquOCr+OCqOOCueODiAo=</text>
+      <register name="1" type="4">
+        <text>{
+		// 失敗
+	} else {
+		
+	}
+
+	return nil</text>
       </register>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>{
+		// 失敗
+	} else {
+		
+	}
+
+	return nil</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CWlmIHJlc3AuU3RhdHVzQ29kZSAhPSAyMDAgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkvLyBQVVNI44Gq44KJR2F0ZXdheeOBq+ODquOCr+OCqOOCueODiAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkvLyB2YWx1ZXMgOj0gdXJsLlZhbHVlc3t9CgkJLy8gdmFsdWVzLkFkZCgiZW52IiwgInN0ZyIpCgkJLy8gdmFsdWVzLkFkZCgiY29uZGl0aW9uIiwgInN0ZyIpCgkJLy8gdmFsdWVzLkFkZCgiZW52IiwgInN0ZyIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>if</text>
       </register>
     </registers>
     <search>
