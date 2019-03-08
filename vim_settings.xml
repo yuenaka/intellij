@@ -1,0 +1,38 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/project/002_daimatsu/source/passport_app_batch/src/jfr/batch/command/push.go" timestamp="1552025253437">
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="49" column="51" />
+        <mark key="." line="49" column="51" />
+        <mark key="^" line="49" column="87" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQkvLyBQVVNI44Gq44KJR2F0ZXdheeOBq+ODquOCr+OCqOOCueODiAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>jfr.PushNotification.PushNotificationId</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvLyB2YWx1ZXMgOj0gdXJsLlZhbHVlc3t9CgkJLy8gdmFsdWVzLkFkZCgiZW52IiwgInN0ZyIpCgkJLy8gdmFsdWVzLkFkZCgiY29uZGl0aW9uIiwgInN0ZyIpCgkJLy8gdmFsdWVzLkFkZCgiZW52IiwgInN0ZyIpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>jfr.PushNotification.PushNotificationId</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
