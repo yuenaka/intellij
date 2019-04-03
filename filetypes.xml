@@ -3,6 +3,10 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="qa1" type="PLAIN_TEXT" />
+      <mapping ext="qa4" type="PLAIN_TEXT" />
+      <mapping ext="qa3" type="PLAIN_TEXT" />
+      <mapping ext="qa2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
