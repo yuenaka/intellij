@@ -1,0 +1,63 @@
+<code_scheme name="Default" version="173">
+  <SqlCodeStyleSettings>
+    <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
+    <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
+    <option name="WRAP_INSIDE_SELECT" value="2" />
+    <option name="WRAP_INSIDE_JOIN_EXPRESSION" value="2" />
+    <option name="WRAP_INSIDE_GROUP_BY" value="2" />
+    <option name="WRAP_INSIDE_WHERE" value="2" />
+    <option name="WRAP_INSIDE_ORDER_BY" value="2" />
+    <option name="WRAP_INSIDE_SET" value="2" />
+    <option name="WRAP_INSIDE_VALUES_EXPRESSION" value="2" />
+    <option name="WRAP_VALUES_EXPRESSION" value="2" />
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+  </SqlCodeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
