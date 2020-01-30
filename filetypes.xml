@@ -4,8 +4,9 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="*.blade.php" type="HTML" />
       <mapping ext="ctp" type="PHP" />
-      <mapping pattern="reference.blade.php" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prd" type="PLAIN_TEXT" />
+      <mapping pattern="reference.blade.php" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
