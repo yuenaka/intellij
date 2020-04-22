@@ -9,6 +9,9 @@
   </action>
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift alt 6" />
