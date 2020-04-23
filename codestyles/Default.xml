@@ -2,8 +2,7 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="0">
-    <option name="myVersion" value="0" />
+  <SqlCodeStyleSettings version="2">
     <option name="ALIAS_CASE" value="4" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
@@ -100,8 +99,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
