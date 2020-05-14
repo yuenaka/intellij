@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-  </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="ALIAS_CASE" value="4" />
     <option name="KEYWORD_CASE" value="1" />
@@ -78,6 +75,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <arrangement>
       <groups>
         <group>
