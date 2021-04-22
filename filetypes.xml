@@ -7,6 +7,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.prd" type="PLAIN_TEXT" />
       <mapping pattern="reference.blade.php" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
