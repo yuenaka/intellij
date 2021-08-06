@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*.blade.php" type="HTML" />
+      <mapping ext="ctp" type="PHP" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prd" type="PLAIN_TEXT" />
+      <mapping pattern="reference.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern="hosts_docker" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
