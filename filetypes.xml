@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="pgerd" type="PLAIN_TEXT" />
       <mapping ext="locationspattern" type="ktor locations pattern" />
     </extensionMap>
   </component>
